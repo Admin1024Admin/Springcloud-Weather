@@ -8,6 +8,7 @@ class MicroWeatherBasicApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
